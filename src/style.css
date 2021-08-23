@@ -55,7 +55,7 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #04185a;
-  --color-text: #2e353f;
+  --color-text: #212325;
   --color-background:#C0ACF0;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -69,9 +69,11 @@
 :after,
 :before {
   box-sizing: border-box;
+  
 }
 
 html {
+
   line-height: var(--lineHeight-normal);
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
@@ -79,6 +81,8 @@ html {
 }
 
 body {
+  box-sizing: border-box;
+  box-shadow:0.5px 0.2px 0.5px 2px #e4a069; 
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
