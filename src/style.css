@@ -54,11 +54,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #04185a;
   --color-text: #2e353f;
+  --color-background:#C0ACF0;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-heading-black:black ;
   --color-accent: #d1dce5;
 }
 
@@ -81,6 +82,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background: var(--color-background);
 }
 
 footer {
@@ -88,7 +90,7 @@ footer {
 }
 
 hr {
-  background: var(--color-accent);
+  background: var(--color-background);
   height: 1px;
   border: 0;
 }
