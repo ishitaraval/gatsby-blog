@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ishita Portfolio`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ishita Raval`,
+      summary: `who lives in Scarborough and loves to animate things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `I am Good at  grasping skills, strong at both Technical and Soft skills.`,
+    Hobbies: `Loves to dance and draw.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `ishita raval`,
+      url: `https://github.com/ishitaraval`
     },
   },
   plugins: [
@@ -112,13 +114,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Ishita Portfolio`,
+        short_name: `Ishi`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/ishavatar-logo.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
