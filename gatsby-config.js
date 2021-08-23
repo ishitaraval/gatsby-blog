@@ -117,8 +117,8 @@ module.exports = {
         name: `Ishita Portfolio`,
         short_name: `Ishi`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `rgb(192, 172, 240)`,
+        theme_color: `##db8a2d`,
         display: `minimal-ui`,
         icon: `src/images/ishavatar-logo.png`, // This path is relative to the root of the site.
       },
