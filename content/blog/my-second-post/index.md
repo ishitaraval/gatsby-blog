@@ -1,13 +1,13 @@
 ---
-title: My Second Post!
+title: My Animation Work!
 date: "2015-05-06T23:46:37.121Z"
 ---
 
 Wow! I love blogging so much already.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Here is an website holding my Animation worj you all would love it. 
+You could contact me for developing a logo , logo reveal video or any sort of animation for your company. 
+"I would Love to work for you, Let's do it".
+([Website Link](https://www.ishavatar.com/))
 
-Yeah, I didn't either.
+Tagline: You Draw, We Animate.

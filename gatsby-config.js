@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       github: `ishita raval`,
-      url: `https://github.com/ishitaraval`
+      siteurl: `https://github.com/ishitaraval`
     },
   },
   plugins: [
@@ -117,8 +117,8 @@ module.exports = {
         name: `Ishita Portfolio`,
         short_name: `Ishi`,
         start_url: `/`,
-        background_color: `rgb(192, 172, 240)`,
-        theme_color: `##db8a2d`,
+        background_color: `#C0ACF0`,
+        theme_color: `#db8a2d`,
         display: `minimal-ui`,
         icon: `src/images/ishavatar-logo.png`, // This path is relative to the root of the site.
       },
